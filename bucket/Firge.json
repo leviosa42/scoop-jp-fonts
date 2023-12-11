@@ -1,10 +1,10 @@
 {
     "version": "0.3.0",
-    "description": "Composit font of Genju Gothic and Hack",
+    "description": "Composit font of Genshin Gothic and Fira Mono",
     "homepage": "https://github.com/yuru7/Firge",
     "license": "OFL-1.1",
     "url": "https://github.com/yuru7/Firge/releases/download/v0.3.0/Firge_v0.3.0.zip",
-    "hash": "123b2179866f5a291c15cf34a83fdce6ac202e2fe6ad27fbd9ddd4f5bff23c65",
+    "hash": "c986f621000a6598064c7e2078322ed02040af4f7804d258033df949b35b0527",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/yuru7/Firge/releases/download/v$version/Firge_v$version.zip"
