@@ -1,10 +1,10 @@
 {
-    "version": "0.0.6",
+    "version": "1.0.2",
     "description": "Composit font of Monaspace and IBM Plex Sans JP",
     "homepage": "https://github.com/yuru7/moralerspace",
     "license": "OFL-1.1",
-    "url": "https://github.com/yuru7/moralerspace/releases/download/v0.0.6/MoralerspaceJPDOC_v0.0.6.zip",
-    "hash": "006aadde18b58d96ee3a971bd537c8c9199d6d3c9037b7484861e52a2e2631c2",
+    "url": "https://github.com/yuru7/moralerspace/releases/download/v1.0.2/MoralerspaceJPDOC_v1.0.2.zip",
+    "hash": "0c22320b9466d5cfb9e66c9ecba1bef6a71afe2a5890e81927efd78ba721261e",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/yuru7/moralerspace/releases/download/v$version/MoralerspaceJPDOC_v$version.zip"
